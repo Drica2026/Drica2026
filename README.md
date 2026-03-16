@@ -1,11 +1,17 @@
-## Hi there 👋
+## Olá, sou Adriana 👋
+ Estudante do curso técnico de desenvolvimento de sistemas
+ 
+ Buscando conhecimento na área de tecnologia
 
+ Interesse em projetos voltados à área da saúde
+
+ Contato: Adri.work2026@gmail.com
 <!--
 **Drica2026/Drica2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
