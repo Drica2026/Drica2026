@@ -1,22 +1,17 @@
 ## Olá, sou Adriana 👋
- Estudante do curso técnico de desenvolvimento de sistemas
- 
- Buscando conhecimento na área de tecnologia
 
- Interesse em projetos voltados à área da saúde
-
- Contato: Adri.work2026@gmail.com
+- Estudante do curso técnico de desenvolvimento de sistemas
+- Buscando conhecimento na área de tecnologia
+- Interesse em projetos voltados à área da saúde
+- Contato: Adri.work2026@gmail.com
+   
+## Tecnologia que estudo
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <!--
 **Drica2026/Drica2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
