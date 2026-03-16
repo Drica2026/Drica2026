@@ -1,10 +1,11 @@
 ## Olá, sou Adriana 👋
 
-- Estudante do curso técnico de desenvolvimento de sistemas
-- Buscando conhecimento na área de tecnologia
-- Interesse em projetos voltados à área da saúde
-- Contato: Adri.work2026@gmail.com
-   
+👩‍🎓 Estudante do curso técnico de desenvolvimento de sistemas
+
+💻 Buscando conhecimento na área de tecnologia
+
+🩺 Interesse em projetos voltados à área da saúde
+
 ## Tecnologia que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
